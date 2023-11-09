@@ -16,5 +16,5 @@ The program initializes an array named vector with a size of 8 and prompts the u
 
 ## Contributors
 
-Jonathas Meine
-Mateus José da Silva
+- Jonathas Meine
+- Mateus José da Silva
