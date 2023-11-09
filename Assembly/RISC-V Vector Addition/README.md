@@ -4,8 +4,8 @@ This repository contains two RISC-V 32-bit assembly codes for summing elements i
 
 ## Files
 
-- `iterative_sum_assembly.asm`: RISC-V 32-bit assembly code for iterative sum of array elements.
-- `recursive_sum_assembly.asm`: RISC-V 32-bit assembly code for recursive sum of array elements.
+- `iterative_sum.asm`: RISC-V 32-bit assembly code for iterative sum of array elements.
+- `recursive_sum.asm`: RISC-V 32-bit assembly code for recursive sum of array elements.
 
 ## Usage
 
